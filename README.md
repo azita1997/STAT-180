@@ -17,3 +17,7 @@ There are several function available in markdown file to express and organize th
 | 3    | Japan             |        5,154,475 |
 
 The data is used from [here](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal))
+
+## Authors
+
+* **Aren Zita** - [GitHub](https://github.com/azita1997)
